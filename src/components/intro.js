@@ -7,7 +7,7 @@ export default function Intro() {
         whitehat_stoic
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-         Thoughts on cybersecurity, tech and philosophy 
+         Thoughts on technology and philosophy 
           (check my other websites! {' '}
         <a
           href="https://tech-stoic.github.io"
