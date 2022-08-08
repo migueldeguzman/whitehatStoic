@@ -13,7 +13,7 @@ export default function Intro() {
           href="https://www.youtube.com/channel/UC8frhZgSux3uGmtOcACbcoQ"
           className="underline hover:text-success duration-200 transition-colors"
         >
-          YouTube Channel!
+          YouTube Channel!)
         </a>.
       </h4>
     </section>
