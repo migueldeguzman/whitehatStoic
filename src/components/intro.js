@@ -8,12 +8,12 @@ export default function Intro() {
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         Research, life hacks, tech and practical philosophy 
-          (Check out our Youtube Channel! {' '}
+          (Check out our {' '}
         <a
           href="https://www.youtube.com/channel/UC8frhZgSux3uGmtOcACbcoQ"
           className="underline hover:text-success duration-200 transition-colors"
         >
-          youTube
+          YouTube Channel!
         </a>.
       </h4>
     </section>
