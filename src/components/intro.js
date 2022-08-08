@@ -8,21 +8,13 @@ export default function Intro() {
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         Research, life hacks, tech and practical philosophy 
-          (More web projects! {' '}
+          (Check out our Youtube Channel! {' '}
         <a
-          href="https://tech-stoic.github.io"
+          href="https://www.youtube.com/channel/UC8frhZgSux3uGmtOcACbcoQ"
           className="underline hover:text-success duration-200 transition-colors"
         >
-          tech-stoic.github.io
-        </a>{' '}
-        and{' '}
-        <a
-          href="https://www.rationalstoic.com/"
-          className="underline hover:text-success duration-200 transition-colors"
-        >
-          rationalstoic.com)
-        </a>
-        .
+          youTube
+        </a>.
       </h4>
     </section>
   )
