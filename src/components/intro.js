@@ -7,7 +7,7 @@ export default function Intro() {
         whitehatStoic
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Research, Tech, & Stoicism 
+        How A Stoic Breathes Life In The Modern Age... 
           (Check out our {' '}
         <a
           href="https://www.youtube.com/channel/UC8frhZgSux3uGmtOcACbcoQ"
