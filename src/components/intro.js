@@ -12,7 +12,7 @@ export default function Intro() {
           href="https://en.wikipedia.org/wiki/Effective_altruism"
           className="underline hover:text-success duration-200 transition-colors"
         >
-          Effective Altruism.) 
+          Effective Altruism. 
         </a>
           (Check out our {' '}
         <a
