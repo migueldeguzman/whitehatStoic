@@ -13,6 +13,7 @@ export default function Intro() {
           className="underline hover:text-success duration-200 transition-colors"
         >
           Effective Altruism...) 
+        </a>
           (Check out our {' '}
         <a
           href="https://www.youtube.com/channel/UC8frhZgSux3uGmtOcACbcoQ"
