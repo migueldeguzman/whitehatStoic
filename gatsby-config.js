@@ -12,7 +12,6 @@ module.exports = {
         apiToken: process.env.DATO_API_TOKEN,
         environment: process.env.DATO_ENVIRONMENT,
      },
-     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // replace "UA-XXXXXXXXX-X" with your own Tracking ID
