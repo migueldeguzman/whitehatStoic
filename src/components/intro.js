@@ -16,7 +16,7 @@ export default function Intro() {
         </a>
           {' '}(Check out my {' '}
         <a
-          href="https://www.youtube.com/channel/UC8frhZgSux3uGmtOcACbcoQ"
+          href="https://www.youtube.com/@whitehatStoic"
           className="underline hover:text-success duration-200 transition-colors"
         >
           YouTube Channel!)
