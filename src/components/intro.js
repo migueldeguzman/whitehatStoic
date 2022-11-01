@@ -14,7 +14,7 @@ export default function Intro() {
         >
           Effective Altruism.
         </a>
-          {' '}(Check out our {' '}
+          {' '}(Check out my {' '}
         <a
           href="https://www.youtube.com/channel/UC8frhZgSux3uGmtOcACbcoQ"
           className="underline hover:text-success duration-200 transition-colors"
