@@ -7,7 +7,7 @@ export default function Intro() {
         whitehatStoic
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        I'm Miguel De Guzman! A Marathoner, Stoic And Futurist Pursuing {' '}
+        I'm Miguel De Guzman! Navigating The Far Future Through {' '}
         <a
           href="https://en.wikipedia.org/wiki/Effective_altruism"
           className="underline hover:text-success duration-200 transition-colors"
@@ -21,6 +21,7 @@ export default function Intro() {
         >
           YouTube Channel!)
         </a>.
+        {' '} Join Me On This Journey!
       </h4>
     </section>
   )
