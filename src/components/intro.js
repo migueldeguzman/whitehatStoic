@@ -9,7 +9,7 @@ export default function Intro() {
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         Hi there! I'm Miguel De Guzman! I'm a futurist and stoic trying to utilize this one life we got through {' '}
         <a
-          href="https://en.wikipedia.org/wiki/Effective_altruism"
+          href="https://forum.effectivealtruism.org/users/miguel-1"
           className="underline hover:text-success duration-200 transition-colors"
         >
           Effective Altruism!
