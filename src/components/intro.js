@@ -7,12 +7,12 @@ export default function Intro() {
         whitehatStoic
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Hi there! I'm Miguel De Guzman! I'm a futurist and stoic trying to utilize this one life we got through {' '}
+        Hi there! I'm Miguel De Guzman! I'm a independent consciousness researcher, accountant and futurist trying to utilize this one life we got through {' '}
         <a
           href="https://forum.effectivealtruism.org/users/miguel-1"
           className="underline hover:text-success duration-200 transition-colors"
         >
-          Effective Altruism!
+          effective altruism related projects!
         </a>
           {' '}(Check out my {' '}
         <a
