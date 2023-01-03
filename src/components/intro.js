@@ -8,7 +8,7 @@ export default function Intro() {
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         Hi there! I'm Miguel De Guzman! I'm an independent consciousness researcher, accountant and futurist. 
-        {' '} Join Me On This Journey!
+        {' '} Welcome to my blog!
       </h4>
     </section>
   )
