@@ -7,8 +7,7 @@ export default function Intro() {
         whitehatStoic
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Hi there! I'm Miguel De Guzman! I'm an independent consciousness researcher, accountant and futurist. 
-        {' '} Welcome to my blog!
+        Searching for new perspectives.. 
       </h4>
     </section>
   )
